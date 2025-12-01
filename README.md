@@ -1,2 +1,2 @@
-# mlflow_dashub_demo
+# mlflow_dagshub_demo
 demo for mlflow and dagshub
